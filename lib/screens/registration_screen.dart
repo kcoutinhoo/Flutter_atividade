@@ -22,7 +22,6 @@ class RegistrationScreen extends StatelessWidget {
             SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                // Ação ao cadastrar
               },
               child: Text("Cadastrar"),
             ),

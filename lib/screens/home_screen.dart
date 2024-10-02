@@ -9,12 +9,12 @@ class HomeScreen extends StatelessWidget {
       ),
       body: Column(
         children: [
-          Image.asset('assets/images/logo.png'), // Exemplo de imagem
+          Image.asset('assets/images/logo.png'), 
           Text(
             'Bem-vindo ao Pet Adopt',
             style: TextStyle(fontSize: 24),
           ),
-          Image.asset('assets/images/pet1.png'), // Exemplo de imagem do pet
+          Image.asset('assets/images/pet1.png'), 
         ],
       ),
     );

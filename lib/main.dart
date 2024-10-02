@@ -17,7 +17,7 @@ class PetAdoptApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/': (context) => LoginScreen(),  // Tela inicial definida como Login
+        '/': (context) => LoginScreen(),  
         '/register': (context) => RegistrationScreen(),
         '/home': (context) => HomeScreen(),
       },

@@ -20,7 +20,6 @@ class AddPetScreen extends StatelessWidget {
             SizedBox(height: 16),
             ElevatedButton(
               onPressed: () {
-                // Lógica para adicionar o pet
               },
               child: Text("Adicionar"),
             ),
